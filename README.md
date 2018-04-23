@@ -1,4 +1,5 @@
-Source: Antara News URL: <https://www.antaranews.com/berita/702632/menkeu-tetapkan-tarif-gbk-berikut-rinciannya>
+- Pusing baca Antara News URL: <https://www.antaranews.com/berita/702632/menkeu-tetapkan-tarif-gbk-berikut-rinciannya>
+- Copy paste. Sorted. Beres.
 
 ## Fasilitas indoor
 
